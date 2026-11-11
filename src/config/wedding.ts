@@ -14,7 +14,7 @@ export const wedding = {
   dateText: '20/11/2026',
   /** The number drawn inside the small calendar icon. */
   dateDay: '20',
-  timeText: '٢ عەسر',
+  timeText: '٢ پاش نیوەڕۆ',
 
   venue: {
     name: 'ماڵی بووکە خان',
