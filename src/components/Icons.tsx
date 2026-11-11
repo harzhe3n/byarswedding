@@ -57,9 +57,9 @@ export function ClockIcon({ className }: { className?: string }) {
     <svg className={className} {...base}>
       <circle cx="12" cy="12" r="9.2" />
       <path d="M12 3.9 V5.1 M20.1 12 H18.9 M12 20.1 V18.9 M3.9 12 H5.1" strokeWidth="1" />
-      {/* hands at three o'clock — "٣ عەسر" */}
+      {/* hands at two o'clock — "٢ عەسر" */}
       <path className="icon-hand icon-hand--minute" d="M12 12 V6.6" />
-      <path className="icon-hand icon-hand--hour" d="M12 12 H15.6" />
+      <path className="icon-hand icon-hand--hour" d="M12 12 L15.1 10.2" />
       <circle cx="12" cy="12" r="0.9" fill="currentColor" stroke="none" />
     </svg>
   )

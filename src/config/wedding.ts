@@ -7,14 +7,14 @@ export const wedding = {
   bride: 'لەنیا',
 
   /** Exact start time, used by the countdown. Kurdistan time is UTC+3. */
-  startsAt: '2026-11-20T15:00:00+03:00',
+  startsAt: '2026-11-20T14:00:00+03:00',
 
   /** Text exactly as printed on the invitation card. */
   dayName: 'هەینی',
   dateText: '20/11/2026',
   /** The number drawn inside the small calendar icon. */
   dateDay: '20',
-  timeText: '٣ عەسر',
+  timeText: '٢ عەسر',
 
   venue: {
     name: 'ماڵی بووکە خان',
